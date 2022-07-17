@@ -1,0 +1,27 @@
+[{	"lang":"de",
+	"hits":[
+		{"type":"entry",
+		"opendict":false,
+		"roms":[
+			{"headword":"Bilanz",
+			"headword_full":"",
+			"wordclass":"noun",
+			"arabs":[
+				{"header":"",
+				"translations":[
+					{"source":"<strong class=\"headword\">Bilanz<\/strong>",
+					"target":"bilancio <span class=\"genus\"><abbr title=\"Maskulinum / maschile\">m<\/abbr><\/span>"},
+					{"source":"<span class=\"example\">die <strong class=\"tilde\">Bilanz<\/strong> (aus <abbr title=\"etwas / qualcosa\">etwas<\/abbr>) ziehen<\/span>",
+					"target":"fare il bilancio (di <acronym title=\"qualcosa\">qc<\/acronym>), tirare le somme (di <acronym title=\"qualcosa\">qc<\/acronym>)"}]}]}]},
+		{"type":"entry",
+		"opendict":false,
+		"roms":[
+			{"headword":"CO -Bilanz",
+			"headword_full":"CO -Bilanz <span class=\"wordclass\"><acronym title=\"noun\">N<\/acronym><\/span> <span class=\"genus\"> <abbr title=\"Femininum / femminile\">f<\/abbr> <\/span> <span class=\"topic\"> <abbr title=\"Ökologie/Umweltschutz / ecologia\">ÖKOL<\/abbr> <abbr title=\"Wirtschaft/Volkswirtschaft / economia\">WIRTSCH<\/abbr> <\/span>",
+			"wordclass":"noun",
+			"arabs":[
+				{"header":"",
+				"translations":[
+					{"source":"<strong class=\"headword\">CO2 -Bilanz<\/strong>",
+					"target":"contenuto <span class=\"genus\"><abbr title=\"Maskulinum / maschile\">m<\/abbr><\/span> di biossido di carbonio"}
+					]}]}]}]}]
